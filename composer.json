@@ -10,7 +10,7 @@
   ],
   "require": {
     "yiisoft/yii2-authclient": "~2.1.0",
-    "rudderrave/ar-team-core": "dev-master",
+    "rudderrave/ar-team-core": "dev-master"
   },
   "autoload": {
     "psr-4": {
