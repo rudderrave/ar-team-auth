@@ -1,0 +1,21 @@
+{
+  "name": "rudderrave/ar-team-auth",
+  "description": "AR-team authorization module",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Rave",
+      "email": "rudder.rave@gmail.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2-authclient": "~2.1.0",
+    "rudderrave/ar-team-core": "dev-master",
+    "rudderrave/ar-team-user": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "arteam\\auth\\": ""
+    }
+  }
+}
