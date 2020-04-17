@@ -9,7 +9,7 @@ use yii\web\AssetBundle;
  */
 class AvatarUploaderAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/rudderrave/yii2-arteam-auth/assets';
+    public $sourcePath = '@vendor/rudderrave/ar-team-auth/assets';
     public $css = ['css/avatar-uploader.css'];
     public $js = ['js/avatar-uploader.js'];
     public $depends = ['yii\web\JqueryAsset'];

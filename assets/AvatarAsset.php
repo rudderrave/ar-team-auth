@@ -11,7 +11,7 @@ use yii\web\View;
  */
 class AvatarAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/rudderrave/yii2-arteam-auth/assets/images';
+    public $sourcePath = '@vendor/rudderrave/ar-team-auth/assets/images';
 
     public static function getDefaultAvatar($size = 'small')
     {
